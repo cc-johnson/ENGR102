@@ -1,0 +1,9 @@
+{
+	"folders": [{
+		"path": "."
+	}],
+	"settings": {
+		"editor.insertSpaces": false,
+		"python.pythonPath": "C:\\Users\\chase\\Anaconda3\\envs\\ENGR102\\python.exe",
+	}
+}

@@ -1,0 +1,16 @@
+Team 23:	Bryan Jones, Chase Johnson, Anna Olmedo, Gustavo Rodriguez
+Date: 27 October 2019
+
+The x values represent: time, and the y values represent: asdf
+-----------------------------
+(3.0,6.0)
+(3.0,54.0)
+(4.0,3.0)
+(4.0,3.0)
+(5.0,8.0)
+(5.0,6.0)
+(45.0,75.0)
+(86.0,12.0)
+-----------------------------
+(4.5432,5.715999999999998): interpolation
+(3.432,31.968000000000004): interpolation
